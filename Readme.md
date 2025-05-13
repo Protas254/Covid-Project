@@ -39,3 +39,5 @@ A data analysis project focused on understanding the impact of COVID-19 through 
 - The analysis emphasizes the importance of timely interventions and data-driven decisions.
 - Working on this project enhanced skills in data analysis and visualization.
 - Collaboration and version control were key to the project's success.
+
+## author-Protas
